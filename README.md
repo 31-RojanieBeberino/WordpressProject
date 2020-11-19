@@ -1,1 +1,2 @@
-# WordpressProject
+# WordPress
+ 
